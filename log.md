@@ -7,9 +7,10 @@
 
 **Thoughts:** READ and FOCUS! You got this!
 
-** Useful links:** 
+## Useful links: 
 
 *[Why are my contributions not showing on my profile](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/)
+
 *[How to show or change your Git username or email address](http://alvinalexander.com/git/git-show-change-username-email-address)
 
 **Link to work:** [Contribution chart shows one commit today :)](https://github.com/catespinosa)
