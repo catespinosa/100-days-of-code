@@ -7,7 +7,7 @@
 
 **Thoughts:** READ and FOCUS! You got this!
 
-## Useful links: 
+#### Useful links: 
 
 *[Why are my contributions not showing on my profile](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/)
 
