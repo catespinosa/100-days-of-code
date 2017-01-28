@@ -15,17 +15,17 @@
 
 **Link to work:** [Contribution chart shows one commit today :)](https://github.com/catespinosa)
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 27, 2017
+#####
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Added video source object to my random rueda call generator and it worked. Need to find out how to hide the iframe on page load. I'm using the same video for testing purposes but I need to find videos for all the rueda calls.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I didn't spend a full hour today and I feel guilty since it's day 2! I have to attend a function but I'm hoping to get a little more coding in today. It was a stressful day for a Friday.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Rueda de Casino random call generator](/jsd920_class_repo/projects/final_project/public/rueda-random-gen.html)
 
 
-### Day 1: June 27, Monday
+<!--## Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
