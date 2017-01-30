@@ -67,6 +67,6 @@ If you are getting this error for a YouTube video, rather than using the full ur
 **Thoughts:** Felt like I've spent way too much time on the random call generator but I learned some things and felt confident with the code. I decided to move on to exercises in General Assembly's Dash and learned some HTML 5 and CSS tricks that I didn't know about. I need to read about Markdown so I can style my readme file properly.
 
 **Link to work:** 
-1. [https://github.com/catespinosa](https://github.com/catespinosa)
+1. [Rueda call generator](https://catespinosa.github.io/jsd920_class_repo/projects/final_project/public/rueda-random-gen.html)
 2. [Today's tweet](https://twitter.com/catespinosa/status/825916606538711040)
 
