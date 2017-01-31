@@ -70,3 +70,14 @@ If you are getting this error for a YouTube video, rather than using the full ur
 1. [Rueda call generator](https://catespinosa.github.io/jsd920_class_repo/projects/final_project/public/rueda-random-gen.html)
 2. [Today's tweet](https://twitter.com/catespinosa/status/825916606538711040)
 
+### Day 5: Monday, January 30, 2017 (1 hour)
+#####
+
+**Today's Progress**: Very little: Continued to work on the GA Feedr project that I had started during my JSD course, I was able to write one line of code that worked to show the modal when you click the headline, but can't figure out how to show the content inside it.
+
+**Thoughts:** I think I'm not targeting the div properly. I tried using css and empty quotes to remove "display: none" but that didn't work. Also "removeAttr"... More tomorrow
+
+**Link to work:** 
+1. [Feedr project](https://github.com/catespinosa/catespinosa.github.io/blob/master/jsd920_class_repo/projects/feedr/js/app.js)
+2. [Today's tweet](https://twitter.com/catespinosa/status/826260816290783232)
+
