@@ -75,7 +75,7 @@ If you are getting this error for a YouTube video, rather than using the full ur
 
 **Today's Progress**: Very little: Continued to work on the GA Feedr project that I had started during my JSD course, I was able to write one line of code that worked to show the modal when you click the headline, but can't figure out how to show the content inside it.
 
-**Thoughts:** I think I'm not targeting the div properly. I tried using css and empty quotes to remove "display: none" but that didn't work. Also "removeAttr"... More tomorrow
+**Thoughts:** I think I'm not targeting the div properly. I tried using css and empty quotes to remove "display: none" but that didn't work. Also "removeAttr"... More tomorrow... JUST REALIZED I DIDN'T READ MY OWN PSEUDO CODE!! tired and going to bed.
 
 **Link to work:** 
 1. [Feedr project](https://github.com/catespinosa/catespinosa.github.io/blob/master/jsd920_class_repo/projects/feedr/js/app.js)
