@@ -79,5 +79,24 @@ If you are getting this error for a YouTube video, rather than using the full ur
 
 **Link to work:** 
 1. [Feedr project](https://github.com/catespinosa/catespinosa.github.io/blob/master/jsd920_class_repo/projects/feedr/js/app.js)
+
 2. [Today's tweet](https://twitter.com/catespinosa/status/826260816290783232)
+
+
+### Day 6: Tuesday, January 31, 2017 (2:15 hrs)
+#####
+
+**Today's Progress**: Working on the Feedr project. The #popup .loader class was not going away because I was trying to use $('#popUp').removeClass('.loader hidden'); without realizing that the period before loader needed to be removed, so when I previewed the app only "hidden" would be removed... I spent almost 2 hours wondering how the "loader" class was being added to "#popup" GRRRRR!!!!! But alas, I figured it out!!! It was so simple -_-  . 
+
+I was able to show the content inside the popup by creating a function to add more content to the handlebars template and also found out I had to move the script tag to encompass all the content I wanted inside the template. I had to move the firs template down inside the HTML (maybe i could have moved the popup html code up but this worked). Need to figure out how to display the text for the story that I click on since it's only showing the first story no matter what link I click on.
+
+I moved on to the close button but couldn't get it to work.
+
+
+**Thoughts:** I need to code earlier. I'm tired but wired up from coding.
+
+**Link to work:** 
+1. [Feedr project](https://github.com/catespinosa/catespinosa.github.io/blob/master/jsd920_class_repo/projects/feedr/js/app.js)
+
+2. [Today's tweet](https://twitter.com/catespinosa/status/826639675733458946)
 
