@@ -100,3 +100,17 @@ I moved on to the close button but couldn't get it to work.
 
 2. [Today's tweet](https://twitter.com/catespinosa/status/826639675733458946)
 
+
+### Day 7: Wednesday, February 1, 2017 (dont know)
+#####
+
+**Today's Progress**: Not much progress today. I'm still getting the first story when I click on any link but didn't really know how to approach it and I can't explain it to google. Signed up with Free Code Camp.
+
+
+**Thoughts:** Trying to code every day is hard. I'm tired and frustrated because I can't get it to work.
+
+**Link to work:** 
+
+2. [Today's tweet](https://twitter.com/catespinosa/status/827003923760295941)
+
+
