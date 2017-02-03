@@ -113,4 +113,16 @@ I moved on to the close button but couldn't get it to work.
 
 2. [Today's tweet](https://twitter.com/catespinosa/status/827003923760295941)
 
+### Day 8: Thursday, February 2, 2017
+#####
+
+**Today's Progress**: Reviewed basic Javascript concepts at FreeCodeCamp. Solved "convert celsius to fahrenheit" and "word blanks" exercises. I created two repos for 2 of my projects which counts as coding in my book since I'm still getting used to git.
+
+
+**Thoughts:** I will continue with the freecodecamp js exercises tomorrow so I can dedicate a little more time to the Feedr app during the weekend and hopefully find a solution to getting the first story every time I click on any headline.
+
+**Link to work:** 
+
+2. [Today's tweet](https://twitter.com/catespinosa/status/827003923760295941)
+
 
