@@ -111,7 +111,7 @@ I moved on to the close button but couldn't get it to work.
 
 **Link to work:** 
 
-2. [Today's tweet](https://twitter.com/catespinosa/status/827003923760295941)
+1. [Today's tweet](https://twitter.com/catespinosa/status/827003923760295941)
 
 ### Day 8: Thursday, February 2, 2017
 #####
@@ -123,6 +123,21 @@ I moved on to the close button but couldn't get it to work.
 
 **Link to work:** 
 
-2. [Today's tweet](https://twitter.com/catespinosa/status/827364555462365185)
+1. [Today's tweet](https://twitter.com/catespinosa/status/827364555462365185)
+
+### Day 9: Friday, February 3, 2017 (into Saturday)
+#####
+
+**Today's Progress**: Looked into Feedr again and read about "this" and closures because it looks like it's got something to do with it LOL Not sure how to move forward. When I click on the headline only the first popup opens, so the issue is not with the link but with the function opening the popup. I've stared at the code for a long time and did some guessing which I know is not good. 
+
+**Thoughts:** I found the solution in another repo but they use a different approach and I am far along with mine so I will have to decide what to do. Hopefully some sleep and luck will help tomorrow... I need to code during the day, seriously!!
+
+
+**Link to work:** 
+
+1.	[Feedr](https://github.com/catespinosa/catespinosa.github.io/tree/master/jsd920_class_repo/projects/feedr)
+
+
+2. [Today's tweet](https://twitter.com/catespinosa/status/827759295047557120)
 
 
