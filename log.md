@@ -140,4 +140,17 @@ I moved on to the close button but couldn't get it to work.
 
 2. [Today's tweet](https://twitter.com/catespinosa/status/827759295047557120)
 
+### Day 9: Saturday, February 10, 2017
+#####
+
+**Today's Progress**: Went to a Women Who Code meetup and we were introduced to Xcode and Swift. Created a stickers pack app and a stickers app for iMessage. The first one was easy to set up, the second one allowed for more customization because you could manipulate the code. We used a for loop to iterate through my stickers so they could be diplayed.
+
+
+**Link to work:** 
+
+1.	[iOS Sticker app](https://github.com/catespinosa/iOS-stickers.git)
+
+
+2. [Today's tweet](https://twitter.com/catespinosa/status/827965924569444354)
+
 
