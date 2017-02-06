@@ -154,3 +154,14 @@ I moved on to the close button but couldn't get it to work.
 2. [Today's tweet](https://twitter.com/catespinosa/status/827965924569444354)
 
 
+### Day 10: Sunday, February 11, 2017
+#####
+
+**Today's Progress**: Made some progress but I'm still really stuck on the feedr app. I was able to show the title for each story in the popup with the only issue being that the h3 is being added to the h1 inside the popup. I don't know how this thing works.
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/828476716905529344)
+
+
