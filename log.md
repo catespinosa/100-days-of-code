@@ -157,7 +157,7 @@ I moved on to the close button but couldn't get it to work.
 ### Day 10: Sunday, February 11, 2017
 #####
 
-**Today's Progress**: Made some progress but I'm still really stuck on the feedr app. I was able to show the title for each story in the popup with the only issue being that the h3 is being added to the h1 inside the popup. I don't know how this thing works.
+**Today's Progress**: Made some progress but I'm still really stuck on the feedr app. I was able to show the title for each story in the popup with the only issue being that the h3 is being added to the h1 inside the popup. I can't remember how I set it up (with help of course) I should move on.
 
 
 **Link to work:** 
