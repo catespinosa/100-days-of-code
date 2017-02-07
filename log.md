@@ -164,4 +164,14 @@ I moved on to the close button but couldn't get it to work.
 
 1. [Today's tweet](https://twitter.com/catespinosa/status/828476716905529344)
 
+### Day 12: Monday, February 12, 2017
+#####
+
+**Today's Progress**: Completed the jQuery challenges on Free Code Camp
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/828817492357369856)
+
 
