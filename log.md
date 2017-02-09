@@ -140,7 +140,7 @@ I moved on to the close button but couldn't get it to work.
 
 2. [Today's tweet](https://twitter.com/catespinosa/status/827759295047557120)
 
-### Day 10: Saturday, February 10, 2017
+### Day 10: Saturday, February 4, 2017
 #####
 
 **Today's Progress**: Went to a Women Who Code meetup and we were introduced to Xcode and Swift. Created a stickers pack app and a stickers app for iMessage. The first one was easy to set up, the second one allowed for more customization because you could manipulate the code. We used a for loop to iterate through my stickers so they could be diplayed.
@@ -154,7 +154,7 @@ I moved on to the close button but couldn't get it to work.
 2. [Today's tweet](https://twitter.com/catespinosa/status/827965924569444354)
 
 
-### Day 11: Sunday, February 11, 2017
+### Day 11: Sunday, February 5, 2017
 #####
 
 **Today's Progress**: Made some progress but I'm still really stuck on the feedr app. I was able to show the title for each story in the popup with the only issue being that the h3 is being added to the h1 inside the popup. I can't remember how I set it up (with help of course) I should move on.
@@ -164,7 +164,7 @@ I moved on to the close button but couldn't get it to work.
 
 1. [Today's tweet](https://twitter.com/catespinosa/status/828476716905529344)
 
-### Day 12: Monday, February 12, 2017
+### Day 12: Monday, February 6, 2017
 #####
 
 **Today's Progress**: Completed the jQuery challenges on Free Code Camp
@@ -173,5 +173,18 @@ I moved on to the close button but couldn't get it to work.
 **Link to work:** 
 
 1. [Today's tweet](https://twitter.com/catespinosa/status/828817492357369856)
+
+
+### Day 13: Wednesday, February 8, 2017
+#####
+
+**Today's Progress**: JavaScript track on Free Code Camp: manipulating arrays, functions, scope. Took a break to join the #CodeNewbie chat on Twitter.
+
+**Thoughts: Skipped Tuesday becuase I've been pushing myself too hard while being sick, and I'm glad I did because I'm feeling better today. These challenges will help me with Feedr but I'm not ready to open up that can of worms yet. sigh.
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/829538726946684928)
 
 
