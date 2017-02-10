@@ -187,4 +187,16 @@ I moved on to the close button but couldn't get it to work.
 
 1. [Today's tweet](https://twitter.com/catespinosa/status/829538726946684928)
 
+### Day 14: Thursday, February 9, 2017
+#####
 
+**Today's Progress**: Struggled with the Free code camp "stand in line" challenge because of the arguments. Passing arguments is something I still struggle with but I think I'm getting it now. Moved on to boolean, you don't need to declare else in and "if/else" statement? whaaa?
+
+**Thoughts: NEED TO PRIORITIZE CODING IN THE MORNING - -_-   I can't continue like this, I'm a night owl but I also have a husband and a kid and can't do this anymore.
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/829905827305766916)
+
+2. [Stand in line challenge](https://www.freecodecamp.com/challenges/stand-in-line#?solution=%0Afunction%20nextInLine(arr%2C%20item)%20%7B%0A%20%20%2F%2F%20Your%20code%20here%0A%20%20arr.push(item)%3B%0A%20%20%0A%20%20return%20arr.shift(item)%3B%20%20%2F%2F%20Change%20this%20line%0A%7D%0A%0A%2F%2F%20Test%20Setup%0Avar%20testArr%20%3D%20%5B1%2C2%2C3%2C4%2C5%5D%3B%0A%0A%2F%2F%20Display%20Code%0Aconsole.log(%22Before%3A%20%22%20%2B%20JSON.stringify(testArr))%3B%0Aconsole.log(nextInLine(testArr%2C%208))%3B%20%2F%2F%20Modify%20this%20line%20to%20test%0Aconsole.log(%22After%3A%20%22%20%2B%20JSON.stringify(testArr))%3B%0A)
