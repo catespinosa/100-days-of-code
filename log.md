@@ -200,3 +200,20 @@ I moved on to the close button but couldn't get it to work.
 1. [Today's tweet](https://twitter.com/catespinosa/status/829905827305766916)
 
 2. [Stand in line challenge](https://www.freecodecamp.com/challenges/stand-in-line#?solution=%0Afunction%20nextInLine(arr%2C%20item)%20%7B%0A%20%20%2F%2F%20Your%20code%20here%0A%20%20arr.push(item)%3B%0A%20%20%0A%20%20return%20arr.shift(item)%3B%20%20%2F%2F%20Change%20this%20line%0A%7D%0A%0A%2F%2F%20Test%20Setup%0Avar%20testArr%20%3D%20%5B1%2C2%2C3%2C4%2C5%5D%3B%0A%0A%2F%2F%20Display%20Code%0Aconsole.log(%22Before%3A%20%22%20%2B%20JSON.stringify(testArr))%3B%0Aconsole.log(nextInLine(testArr%2C%208))%3B%20%2F%2F%20Modify%20this%20line%20to%20test%0Aconsole.log(%22After%3A%20%22%20%2B%20JSON.stringify(testArr))%3B%0A)
+
+
+
+
+
+### Day 15: Friday, February 10, 2017
+#####
+
+**Today's Progress**: Free Code Camp: Boolean values, (greater than, less than, strictly equal, etc.) operators. Opened up the newsfeed app Feedr to put into practice what I learned yesterday with passing arguments but I didn't make any progress on that. Still showing up the headline for the right article but the wrong description and link on the popup.
+
+**Thoughts: Tired. Tired. Today was a long day. I like the idea of following the Free Code Camp challenges but I thought this challenge was about working on your own projects. I may have to just work on them for now. I know i've said that in previous posts before but I want to have another independent project. Maybe I'm giving myself too much of a hard time about this.
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/830272590828695552)
+
