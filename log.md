@@ -231,5 +231,26 @@ I moved on to the close button but couldn't get it to work.
 
 
 
+### Day 17: Sunday, February 12, 2017
+#####
+
+**Today's Progress**: Uploaded my JSON file to dropbox and installed "Allow-Control-Allow-Origin" extension on chrome to test it.  
+
+# I was getting this error testfile.html:1 XMLHttpRequest cannot load https://www.dropbox.com/s/kmqf99al4l7ntie/stories.json?dl=0. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'null' is therefore not allowed access. 
+
+# So I might just have solved it by removing the s from https, after hours of reading about how to fix this error.
+
+# Read about using  a Google Spreadsheet as your JSON backend, and created one in drive but the response was too weird and I decided to try to continue with the file I had created.
+
+**Thoughts: -_- feeling very confused and frustrated
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/830890097792917504)
+
+
+
+
 
 
