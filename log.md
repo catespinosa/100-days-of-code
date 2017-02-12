@@ -205,15 +205,31 @@ I moved on to the close button but couldn't get it to work.
 
 
 
-### Day 15: Friday, February 10, 2017
+
+
+
+### Day 16: Saturday, February 11, 2017
 #####
 
-**Today's Progress**: Free Code Camp: Boolean values, (greater than, less than, strictly equal, etc.) operators. Opened up the newsfeed app Feedr to put into practice what I learned yesterday with passing arguments but I didn't make any progress on that. Still showing up the headline for the right article but the wrong description and link on the popup.
+**Today's Progress**: Pseudo code for how to update an html file with new data and started on the code to parse the data. Hopefully I can use this for a work project I worked on yesterday. 
 
-**Thoughts: Tired. Tired. Today was a long day. I like the idea of following the Free Code Camp challenges but I thought this challenge was about working on your own projects. I may have to just work on them for now. I know i've said that in previous posts before but I want to have another independent project. Maybe I'm giving myself too much of a hard time about this.
+**Created a JSON file to test updating an index file dynamically. This looks like it might be the long way around but I'm using the example functions from the Feedr app, so hopefully this helps me have a breakthrough with that project. I'm using an html test file to see if my "creation" will work. Found out that I need to install a local web server on my machine in order to run (?) my JSON file(?).
+
+**I got this error XMLHttpRequest cannot load file://stories.json/. Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource.
+
+** Read about how to create JSON from csv and that you can use an online converter. When I converted my csv file, the JSON didn't return the properties correctly, maybe because there were special characters? I hope this doesn't sound stupid because I don't know how to explain it exactly or if I'm using the right terminology.
+
+** Found out what linting means in programming. When you convert csv to JSON it's recommended to validate it with JSONlint, which I didn't do.
+
+**Thoughts: Again, this might be the difficult way to go about updating the html page.
 
 
 **Link to work:** 
 
-1. [Today's tweet](https://twitter.com/catespinosa/status/830272590828695552)
+1. [Today's tweet](https://twitter.com/catespinosa/status/830632326812024832)
+
+
+
+
+
 
