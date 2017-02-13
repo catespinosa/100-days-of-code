@@ -252,5 +252,17 @@ I moved on to the close button but couldn't get it to work.
 
 
 
+### Day 18: Monday, February 13, 2017
+#####
 
+**Today's Progress**: Free Code Camp logical operators, if/else, finished golf challenge (lots of if/else statements).
+
+**Thoughts: So I was wrong about switching https to http, and my app for updating the html file still doesn't work. But it's a new week and I've decided that I will wake up early to code instead of doing it at night because I've been too tired and nights. Since I'm not a morning person, I think working on guided exercises will help with adjusting to coding in the mornings.   
+
+
+**Link to work:** 
+
+1. [Golf code](https://www.freecodecamp.com/challenges/golf-code#?solution=%0Afunction%20golfScore(par%2C%20strokes)%20%7B%0A%20%20%2F%2F%20Only%20change%20code%20below%20this%20line%0A%20%20if%20(par%20%3C%3D%204%20%26%26%20strokes%20%3D%3D%201)%20%7B%0A%20%20%20%20return%20%22Hole-in-one!%22%3B%0A%20%20%7D%20else%20if%20(par%20%3E%3D%204%20%26%26%20strokes%20%3C%3D%20par%20-%202)%20%7B%0A%20%20%20%20return%20%22Eagle%22%3B%0A%20%20%7D%20else%20if%20(par%20%3D%3D%204%20%26%26%20strokes%20%3D%3D%20par%20-%201)%20%7B%0A%20%20%20%20return%20%22Birdie%22%3B%0A%20%20%7D%20else%20if%20(par%20%3E%3D%204%20%26%26%20strokes%20%3D%3D%20par)%20%7B%0A%20%20%20%20return%20%22Par%22%3B%0A%20%20%7D%20else%20if%20(par%20%3D%3D%204%20%26%26%20strokes%20%3D%3D%20par%20%2B%201)%20%7B%0A%20%20%20%20return%20%22Bogey%22%3B%0A%20%20%7D%20else%20if%20(par%20%3D%3D%204%20%26%26%20strokes%20%3D%3D%20par%20%2B%202)%20%7B%0A%20%20%20%20return%20%22Double%20Bogey%22%3B%0A%20%20%7D%20else%20if%20(par%20%3E%3D%204%20%26%26%20strokes%20%3E%3D%20par%20%2B%203)%20%7B%0A%20%20%20%20return%20%22Go%20Home!%22%3B%0A%20%20%7D%0A%20%20%0A%20%20return%20%22Change%20Me%22%3B%0A%20%20%2F%2F%20Only%20change%20code%20above%20this%20line%0A%7D%0A%0A%2F%2F%20Change%20these%20values%20to%20test%0AgolfScore(5%2C%209)%3B%0A)
+
+2. [Today's tweet](https://twitter.com/catespinosa/status/831111843389272064)
 
