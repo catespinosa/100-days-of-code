@@ -180,7 +180,7 @@ I moved on to the close button but couldn't get it to work.
 
 **Today's Progress**: JavaScript track on Free Code Camp: manipulating arrays, functions, scope. Took a break to join the #CodeNewbie chat on Twitter.
 
-**Thoughts: Skipped Tuesday becuase I've been pushing myself too hard while being sick, and I'm glad I did because I'm feeling better today. These challenges will help me with Feedr but I'm not ready to open up that can of worms yet. sigh.
+**Thoughts:** Skipped Tuesday becuase I've been pushing myself too hard while being sick, and I'm glad I did because I'm feeling better today. These challenges will help me with Feedr but I'm not ready to open up that can of worms yet. sigh.
 
 
 **Link to work:** 
@@ -192,7 +192,7 @@ I moved on to the close button but couldn't get it to work.
 
 **Today's Progress**: Struggled with the Free code camp "stand in line" challenge because of the arguments. Passing arguments is something I still struggle with but I think I'm getting it now. Moved on to boolean, you don't need to declare else in and "if/else" statement? whaaa?
 
-**Thoughts: NEED TO PRIORITIZE CODING IN THE MORNING - -_-   I can't continue like this, I'm a night owl but I also have a husband and a kid and can't do this anymore.
+**Thoughts:** NEED TO PRIORITIZE CODING IN THE MORNING - -_-   I can't continue like this, I'm a night owl but I also have a husband and a kid and can't do this anymore.
 
 
 **Link to work:** 
@@ -221,7 +221,7 @@ I moved on to the close button but couldn't get it to work.
 
 ** Found out what linting means in programming. When you convert csv to JSON it's recommended to validate it with JSONlint, which I didn't do.
 
-**Thoughts: Again, this might be the difficult way to go about updating the html page.
+**Thoughts:** Again, this might be the difficult way to go about updating the html page.
 
 
 **Link to work:** 
@@ -242,7 +242,7 @@ I moved on to the close button but couldn't get it to work.
 
 **Read about using  a Google Spreadsheet as your JSON backend, and created one in drive but the response was too weird and I decided to try to continue with the file I had created.
 
-**Thoughts: -_- feeling very confused and frustrated
+**Thoughts:** -_- feeling very confused and frustrated
 
 
 **Link to work:** 
@@ -257,7 +257,7 @@ I moved on to the close button but couldn't get it to work.
 
 **Today's Progress**: Free Code Camp logical operators, if/else, finished golf challenge (lots of if/else statements).
 
-**Thoughts: So I was wrong about switching https to http, and my app for updating the html file still doesn't work. But it's a new week and I've decided that I will wake up early to code instead of doing it at night because I've been too tired and nights. Since I'm not a morning person, I think working on guided exercises will help with adjusting to coding in the mornings.   
+**Thoughts**: So I was wrong about switching https to http, and my app for updating the html file still doesn't work. But it's a new week and I've decided that I will wake up early to code instead of doing it at night because I've been too tired and nights. Since I'm not a morning person, I think working on guided exercises will help with adjusting to coding in the mornings.   
 
 
 **Link to work:** 
