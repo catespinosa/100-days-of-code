@@ -266,3 +266,18 @@ I moved on to the close button but couldn't get it to work.
 
 2. [Today's tweet](https://twitter.com/catespinosa/status/831111843389272064)
 
+
+### Day 19: Tuesday, February 14, 2017
+#####
+
+**Today's Progress**: I was able to resolve the access control issues on the dropbox url. I had to change the URL www.dropbox.com to dl.dropboxusercontent.com and use getJSON method. However, I don't know why that happened, I will read up on it because all of the Access Control documents I read said you had to create functions, and I didn't really understand them -_-  I'm hoping I can figure out how to update the HTML file using the JSON file tomorrow. This will help me with an interim solution to a problem I have at work.
+
+**Thoughts**: I could not get out of bed early enough this morning and I had to go into the office, so I'm coding at night again. I will get up tomorrow but I still need to figure out my morning routine.   
+
+
+**Link to work:** 
+
+1. [JS file in my repo](https://github.com/catespinosa/catespinosa.github.io/blob/master/updating_html_json/js/app.js)
+
+2. [Today's tweet](https://twitter.com/catespinosa/status/831699074093084674)
+
