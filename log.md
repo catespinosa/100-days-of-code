@@ -281,3 +281,17 @@ I moved on to the close button but couldn't get it to work.
 
 2. [Today's tweet](https://twitter.com/catespinosa/status/831699074093084674)
 
+
+### Day 20: Wednesday, February 15, 2017
+#####
+
+**Today's Progress**: Working on adding the json objects to the dom, also did a free code camp exercise: "Adding a default option in Switch statements"
+
+**Thoughts**: When coding don't go on twitter and read about what you REALLY should be learning or working with.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/832065881484169220)
+
