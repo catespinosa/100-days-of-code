@@ -295,3 +295,23 @@ I moved on to the close button but couldn't get it to work.
 
 1. [Today's tweet](https://twitter.com/catespinosa/status/832065881484169220)
 
+
+### Day 21: Thursday, February 16, 2017
+#####
+
+**Today's Progress**: Attended Women Who code meetup on Algorithms. Worked with the JavaScript group and we solved the Tribonacci and Roman numerals. The tribonacci problem is a sequence that takes the sum of the previous 3 numbers to generate the next number. Tribonacci takes a "signature" or starting array of numbers. Different signatures will generate different sequences. Write a function that takes as it's argument a signature and an "N" and return the first n elements (including the signature). I learned that you can call a variable "let" instead of "var". Also worked on the Roman Numerals problem:  converts an integer to its Roman numeral equivalent. 
+
+**Thoughts**: This was a really good meetup. The girls that I worked with were really open to answering questions and explaining how things worked. Really helpful. I also went with a new friend which I'm happy about.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/832416658341896193)
+
+2. [Tribonacci](https://repl.it/Fmxj/0)
+
+3. [Roman numerals](https://repl.it/FnAu/0)
+
+
+
