@@ -314,4 +314,20 @@ I moved on to the close button but couldn't get it to work.
 3. [Roman numerals](https://repl.it/FnAu/0)
 
 
+### Day 22: Friday, February 17, 2017
+#####
+
+**Today's Progress**: After yesterday's meetup I was inspired to continue working on my JS final project. So today I worked on the CSS to make it look more like the spotify UI, when you hover the images you see an overlay of the play button and the opacity of the photo changes. I found [this resource](https://miketricking.github.io/dist/) for making image hover effects in bootstrap but but it doesn't work on my iPhone.
+
+**Thoughts**: Talking with other people about coding inspired me to work on my own projects. I wanted to focus on Free Code Camp exercises this week but I want to get something going on my own.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/832795157862834176)
+
+2. [Cuban music project](https://github.com/catespinosa/catespinosa.github.io/commit/3169c194f77ae0b1d51b8f30a662dbd431573700)
+
+
 
