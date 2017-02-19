@@ -329,5 +329,18 @@ I moved on to the close button but couldn't get it to work.
 
 2. [Cuban music project](https://github.com/catespinosa/catespinosa.github.io/commit/3169c194f77ae0b1d51b8f30a662dbd431573700)
 
+### Day 23: Saturday, February 18, 2017
+#####
+
+**Today's Progress**: I changed the CSS a bit more on the final project, and I read about loading content on the same page with [jQuery](http://www.jqueryscript.net/other/Dynamically-Load-Content-Into-A-Container-with-jQuery.html) but I didn't get it to work.
+
+**Thoughts**: My goals for the 100 days of code challenge were to finish the outstanding project from my JS project, learn angular and es6, create a single page website and my portfolio. But I think I'm going to have to revise those goals or give them a further deadline. I've been inspired to expand on my final project so that's what i'm gonna do for now. I have to focus on one thing so I dont' feel like I'm all over the place (but that's obvious haha)
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/833145359186669568)
+
 
 
