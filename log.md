@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+### Day 25: Monday, February 20, 2017
+#####
+
+**Today's Progress**: A lot of CSS and not a lot of JavaScript today on my cuban dance project. I was able to fix the width of the header since I had the div container tag before the div row tag and I needed the background color of the header to take up the entire width of the page. I got my top nav linking to the anchor ids on the page and need to add a scroll. The random generator button was taking me back to the top on click, so I just had to add an preventDefault method to it and that took care of the problem. Tomorrow I have to fix the width of the videos, they're too big for the page and you can't see them.
+
+
+**Thoughts**: Good progress today, I just don't know if I can show this to anyone lol I'm scurrrred!
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/833903969026052100)
+
+
 ### Day 24: Sunday, February 19, 2017
 #####
 
