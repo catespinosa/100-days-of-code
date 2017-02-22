@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 26: Tuesday, February 21, 2017
+#####
+
+**Today's Progress**: added a container class to the random generator section and fixed the video embed. I still need to figure out how to make the page scroll all the way to that section and for the window to scroll down a bit when the video opens. When there is no video the window jumps a bit too. Read about the Meetup API to see how I can incorporate class or meetup information for a specific city.
+
+
+**Thoughts**: The API might require authorization, but I"m not sure yet. I don't want to keep refreshing a token because I don't feel comfortable with it yet. Lots of information and very little understanding.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/834239456697806849)
 
 ### Day 25: Monday, February 20, 2017
 #####
