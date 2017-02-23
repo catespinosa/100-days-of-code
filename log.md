@@ -27,7 +27,7 @@
 
 
 
-### Day 26: Tuesday, February 21, 2017
+### [](#day-26)Day 26: Tuesday, February 21, 2017
 #####
 
 **Today's Progress**: added a container class to the random generator section and fixed the video embed. I still need to figure out how to make the page scroll all the way to that section and for the window to scroll down a bit when the video opens. When there is no video the window jumps a bit too. Read about the Meetup API to see how I can incorporate class or meetup information for a specific city.
