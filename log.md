@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 27: Wednesday, February 22, 2017
+###  [Day 27](#day-27)Day 27: Wednesday, February 22, 2017
 #####
 
 **Today's Progress**:Crafted my API call using the meetup API console. I found the "Topics" category in order to search for groups in the GET find groups method. I had to find the ID for each topic so that I could pass it as a parameter to my URL. This allowed me to better target the type of music and dance I was looking for (cuban) because by using the "Category ID" I was getting all the dance types. At first I thought I was going to be able to use the find topic method but that only retrieved the info about the topic and I want to be able to display different groups based on location. The results are showing a New York location based on my profile, so I will have to use the browser's geolocation to be able to target the user's location. I will have to review a previous exercise and pray to God (and the old gods and the new) that I can apply it to this exercise.
