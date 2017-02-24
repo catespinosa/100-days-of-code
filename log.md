@@ -1,7 +1,23 @@
 # 100 Days Of Code - Log
 
 
-###  [](#day-27)Day 27: Wednesday, February 22, 2017
+###  Day 28: Thursday, February 23, 2017
+#####
+
+**Today's Progress**: Read up on a previous exercise with oAuth to get an idea of what to do with the meetup API since we used the browser's navigator to request geolocation, and I want to search for groups based on the user's location. On the exercise, the js file would ask for the user's location on page load but I want to ask for it when the user clicks a button because I have other stuff on the page. But the on click function did not do anything and I coudln't figure out why, even console.log was not returning anything.
+
+
+
+**Thoughts**: I felt intimidated by what I was trying to accomplish and almost did not start working on it because it was going to be too "hard" and it might still be but I have a better understanding now about what i want to do than what i had before.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/834986517600751616)
+
+
+###  Day 27: Wednesday, February 22, 2017
 #####
 
 **Today's Progress**:Crafted my API call using the meetup API console. I found the "Topics" category in order to search for groups in the GET find groups method. I had to find the ID for each topic so that I could pass it as a parameter to my URL. This allowed me to better target the type of music and dance I was looking for (cuban) because by using the "Category ID" I was getting all the dance types. At first I thought I was going to be able to use the find topic method but that only retrieved the info about the topic and I want to be able to display different groups based on location. The results are showing a New York location based on my profile, so I will have to use the browser's geolocation to be able to target the user's location. I will have to review a previous exercise and pray to God (and the old gods and the new) that I can apply it to this exercise.
@@ -27,7 +43,7 @@
 
 
 
-### [](#day-26)Day 26: Tuesday, February 21, 2017
+### Day 26: Tuesday, February 21, 2017
 #####
 
 **Today's Progress**: added a container class to the random generator section and fixed the video embed. I still need to figure out how to make the page scroll all the way to that section and for the window to scroll down a bit when the video opens. When there is no video the window jumps a bit too. Read about the Meetup API to see how I can incorporate class or meetup information for a specific city.
