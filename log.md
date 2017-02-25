@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
 
+###  Day 29: Friday, February 24, 2017
+#####
+
+**Today's Progress**: Fixed syntax error with my jQuery button - missing # for the button div. I'm able to get a location when I click on it. HOWEVER... I'm getting cross origin requests issues, but I'm not really understanding where you have to put the "headers" or what they are. I'm going to watch a video tomorrow because this is BS. I installed a local server with npm but that still didn't work. I read that I may need to change the URL in my hosts file, but I don't know what I would change it to. Would I add the localhost URL? More tomorrow.
+
+**Pseudo code**:
+* Click button to get user's location
+* Search nearby groups based on coords.
+* Parse API response for: city, name of group, URL, number of members, photo.
+* Put results on DOM (create or append to divs)
+
+
+**Thoughts**: small win today with the location button.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/835310396621869056)
+
+
 ###  Day 28: Thursday, February 23, 2017
 #####
 
