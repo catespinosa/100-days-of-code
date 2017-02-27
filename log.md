@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+###  Day 30 and 31: Saturday Feb. 25 and Sunday Feb. 26, 2017
+#####
+
+**Today's Progress**: Between Saturday and Sunday I have been busy reading more about CORS and watching Youtube videos so that I can find out where to add the headers for my cross origin request. I reached out to an expert web dev in hopes that he could help me figure out what headers to add and where so that i could get away from the error: No 'Access-Control-Allow-Origin' header is present on the requested resource. However, I continued to read and going back to the meetup API docs, and I found that I can only make a CORS request if I'm using OAuth. I don't want to make the user sign on every time they visit the site (are people really going to visit the site?), so what to do now?
+
+** **the blog post I read earlier this week didn't mention any issue with cross origin requests, so I thought it would work. There has to be a way around this. I know there is a way to create a proxy and I think it involves a creating a php file that has your API key so that it's not exposed(?)... all hear say LOL I have to continue to read about this. OMFG. For the record, this is like the second week that I read about this and as hard as it seems, I feel like I'm slowwwwly making progress in understanding this. Just wondering if it's worth it.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/836066788827873281)
+
+
+
 
 ###  Day 29: Friday, February 24, 2017
 #####
