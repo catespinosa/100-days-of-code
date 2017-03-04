@@ -1,7 +1,32 @@
 # 100 Days Of Code - Log
 
+###  Day 35: Friday March 3, 2017
+#####
 
-###  Day 33: Wednesday March. 1, 2017
+**Today's Progress**: I'm almost done with the Cuban dance site, it's a mashup of things that I learned in the JavaScript course and that I wanted to put into practice before I forgot. It also helped me practice my googling skills especially with the CORS problem I was having. It looks like something but the critic in my thinks it's pointless. It's pulling info from 2 APIs (spotify and meetup) so that's something. I'm using Bootstrap for HTML layout and I used some fancy CSS that I found for hovering over the thumbnails for the spotify tracks. Mobile version still needs some work.
+
+**Thoughts**: I think I'm going to take a break from it and do some tutorials next. Might still do the About page so it looks complete and people know what they're looking at, but after that I think I need to do some learning. I'll continue with FCC challenges.								
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/837903645551263744)
+
+
+###  Day 34: Thursday March 2, 2017
+#####
+
+**Today's Progress**: I copied and pasted code using JSONP for my API call, and switched some stuff around and now I have results on the page. It doesn't quite do what I need it to do yet because I still need to learn more. I want to find meetups based on the user's location, but there are no long or lat coords in the API call so I don't know how I would go about that. The geo location function makes you think that you are searching for groups in your area, but in reality it's fetching data based on my zip code.
+
+**Thoughts**: I might switch to learning next week, I feel like I've wasted time trying to work with proxy server and not knowing how to impement it.									
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/837530252117041158)
+
+
+###  Day 33: Wednesday March 1, 2017
 #####
 
 **Today's Progress**: Not a lot of progress today either. Looked at some php proxy scripts but not sure what to do now.
