@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+
+###  Day 38: Monday March 6, 2017
+#####
+
+**Today's Progress**: Free Code Camp objects. Started on for loops. Useful reviews especially for accessing [nested objects](https://www.freecodecamp.com/challenges/accessing-nested-objects#?solution=%0A%2F%2F%20Setup%0Avar%20myStorage%20%3D%20%7B%0A%20%20%22car%22%3A%20%7B%0A%20%20%20%20%22inside%22%3A%20%7B%0A%20%20%20%20%20%20%22glove%20box%22%3A%20%22maps%22%2C%0A%20%20%20%20%20%20%22passenger%20seat%22%3A%20%22crumbs%22%0A%20%20%20%20%20%7D%2C%0A%20%20%20%20%22outside%22%3A%20%7B%0A%20%20%20%20%20%20%22trunk%22%3A%20%22jack%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%3B%0A%0A%2F%2F%20Only%20change%20code%20below%20this%20line%0A%0Avar%20gloveBoxContents%20%3D%20myStorage.car.inside%5B%22glove%20box%22%5D%3B%20%2F%2F%20Change%20this%20line%0A%0A) and [nested arrays](https://www.freecodecamp.com/challenges/accessing-nested-arrays#?solution=%0A%2F%2F%20Setup%0Avar%20myPlants%20%3D%20%5B%0A%20%20%7B%20%0A%20%20%20%20type%3A%20%22flowers%22%2C%0A%20%20%20%20list%3A%20%5B%0A%20%20%20%20%20%20%22rose%22%2C%0A%20%20%20%20%20%20%22tulip%22%2C%0A%20%20%20%20%20%20%22dandelion%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%7B%0A%20%20%20%20type%3A%20%22trees%22%2C%0A%20%20%20%20list%3A%20%5B%0A%20%20%20%20%20%20%22fir%22%2C%0A%20%20%20%20%20%20%22pine%22%2C%0A%20%20%20%20%20%20%22birch%22%0A%20%20%20%20%5D%0A%20%20%7D%20%20%0A%5D%3B%0A%0A%2F%2F%20Only%20change%20code%20below%20this%20line%0A%0Avar%20secondTree%20%3D%20myPlants%5B1%5D.list%5B1%5D%3B%20%2F%2F%20Change%20this%20line%0A%0A)
+
+**Thoughts**: Feeling really tired and I've been really busy with work and home... 							
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/838963187668123650)
+
+
+###  Day 37: Sunday March 5, 2017
+#####
+
+**Today's Progress**: Free Code Camp exercises today. Some switch statements, counting cards exercise.
+
+**Thoughts**: Went to the American Museum of Natural History to see the "Cuba!" exhibit and got some inspiration for my site. I wanted to get away from the blue, red and white colors of the Cuban flag, so I saw some nice color combos and use of graphics.							
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/838566742838370304)
+
+
+###  Day 36: Saturday March 4, 2017
+#####
+
+**Today's Progress**: added fullscreen modal for "about" page and more CSS. Added a background image to the rueda call random generator. I'm working backwards, you're supposed to start with the UI and then move on to code but I'm still playing around with the UI.
+
+**Thoughts**:							
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/838232228555599876)
+
+
 ###  Day 35: Friday March 3, 2017
 #####
 
