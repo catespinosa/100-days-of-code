@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
 
+###  Day 39: Wednesday March 8, 2017
+#####
+
+**Today's Progress**: I skipped yesterday because I went to a Women Who Code Hacknight but we didn't code. I ended up talking to two women most of the night. Towards the end I approached a developer who had asked for help on how to get congress people phone numbers based on the user's location, she said there were these other two websites that were getting this information from somehwere but she couldn't figure out their source. So when I approached her - because I was curious and feeling brave - she showed me what she had been able to find that the websites were getting information from a source that had to be hosted "somewhere", she opened her dev tools and showed me the JSON response. She also went over to the Network tab and something else to show the activity of the files (God I know I sound like I don't know what I'm talking about because I don't)... To make a very long story short, I tried to help out with ideas as to how to obtain the info, and then I was inspired to figure out how the troubleshooting worked.
+
+* I will read about markdown something because i need a new paragraph.
+
+* So we went over Troubleshooting JS during my course at GA, and the first part of finding errors in the console is easy. The tricky part was adding debugger and break points, that part kind of went over my head. I went back to the slides and was not able to get anywhere. The only good thing was that I installed JS linter and bracket highlighter for sublime text on this computer.
+
+* I know I'm treating this like a diary and it's so embarrassing hahahaha
+
+**Thoughts**: TIREDDDD							
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/839679248138977280)
+
+2. [Modified file for logic errors](https://github.com/catespinosa/catespinosa.github.io/commit/ed3ca1bf2936acf46980ff689e57b99e0f651f30#diff-52288dd517934f9d38cdf74a9828cf42)
+
+
 ###  Day 38: Monday March 6, 2017
 #####
 
