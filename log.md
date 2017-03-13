@@ -1,6 +1,34 @@
 # 100 Days Of Code - Log
 
 
+###  Day 41-42: Friday March 11 and Saturday March 12, 2017
+#####
+
+**Today's Progress**: learn.co bootcamp prep
+
+**Thoughts**: I received wonderful news on Thursday. I've been awarded a partial scholarship to the Flatiron School's online web development program thanks to Women Who Code and the Flatiron School. So it was exciting and scary at the same time, am I going to really become a web developer? "You have to take advantage of an opportunity of a lifetime, in the lifetime of the opportunity"... So I'm saying yes to this opportunity. It's going to be a lot of work because this is something I'm actually going to HAVE to invest a lot of time towards, and there are things that I will have to figure out family wise: husband, child, home, family time... I have my husband's support, and it's a matter of determination, am I really going to do this? You damn right I am!					
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/840725118322110464)
+
+
+
+###  Day 40: Thursday March 10, 2017
+#####
+
+**Today's Progress**: some freeCodeCamp JS exercises but couldn't figure out "Profile Lookup"
+
+**Thoughts**: TIREDDDD							
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/840070095409823744)
+
+
+
 ###  Day 39: Wednesday March 8, 2017
 #####
 
