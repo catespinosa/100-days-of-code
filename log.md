@@ -1,7 +1,20 @@
 # 100 Days Of Code - Log
 
 
-###  Day 41-42: Friday March 11 and Saturday March 12, 2017
+###  Day 43: Sunday March 12, 2017
+#####
+
+**Today's Progress**: Continued learn.co bootcamp prep. Now on Javascript flow control
+
+**Thoughts**: I've been working on the Free Code Camp challenges lately, and I thought that the learn.co platform would be similar, but it provides much more context for what you're trying to accomplish with your code. It provides a conversational approach to teaching code which I thoroughly appreciate because it feels like someone is actually teaching you. It still took me a while to get used to, which is why my day 41 and 42 were about the same thing. It took me a while to realize that I needed to install the IDE app on this computer (I've been using a new computer for the past month) in order to get the labs to work. The first part of these javascript labs were tests. I had to run the tests before writing any code, and that part was new even though I had taken a JS course before. 				
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/840725118322110464)
+
+
+###  Day 41-42: Friday March 10 and Saturday March 11, 2017
 #####
 
 **Today's Progress**: learn.co bootcamp prep
@@ -15,7 +28,7 @@
 
 
 
-###  Day 40: Thursday March 10, 2017
+###  Day 40: Thursday March 9, 2017
 #####
 
 **Today's Progress**: some freeCodeCamp JS exercises but couldn't figure out "Profile Lookup"
