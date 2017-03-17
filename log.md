@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+###  Day 45: Thursday March 16, 2017 (into March 17th)
+#####
+
+**Today's Progress**: Skipped 2 full days because of being extremely busy at work, extremely tired, and I also had a company event to attend yesterday. Today I finished the functions lab... GEESH!! Another difficult one, I was stumped on how to approach the problem. The problems said "IF the string is lowercase then do something" but my if statements kept FAILING!! I ended up hardcoding the values of the param but that was not the idea. I had to use toLowerCase(), toUpperCase()... when I did that I was getting "Expected undefined to equal 'I can\'t hear you!'", and it was because the syntax was wrong. I was missing the parenthesis next to the toUpper or Lower methods. I spent an hour getting errors.
+
+**Thoughts**: 				
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/842589749692977152)
+
+
+
+###  Day 44: Monday March 13, 2017 (into March 14th)
+#####
+
+**Today's Progress**: These labs are no joke. I thought I would breeze through them. Today I actually finished the Flow Control lab: if/else statements, switch statements. I think the tests have taken some getting used to and that's why I keep taking so long with the labs. Well I think I'm taking long but I only did 1 hour, I hope I get faster with time!
+
+**Thoughts**: 				
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/841504686771445760)
+
+
 
 ###  Day 43: Sunday March 12, 2017
 #####
