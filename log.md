@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+
+###  Day 47: Sunday March 19, 2017 
+#####
+
+**Today's Progress**: Finished the arithmetic functions lab and took a quiz about functions on learn.co. I took a long time trying to figure out how to use the parseInt() function within a function. I was trying to return the argument that I was passing from my makeInt(n) function, but that kept giving me error because the parseInt returns a new value, not the argument that I'm passing which would remain unchanged if I just did - return n -. I had to look at the solution and it turns out I had to return parseInt function in order to pass the test.
+
+I also worked on changing my dance project's CSS. Started with the header color and added 2 background images to the same element for the first time. I didn't know you could add different images as backgrounds.
+
+
+**Thoughts**: Still not happy with the design and starting to feel like I'm not good enough and like I'm just doing thing the "old" way I know how and it sucks. 				
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/843609284827103232)
+
+
+###  Day 46: Saturday March 18, 2017 
+#####
+
+**Today's Progress**: Skipped Friday's session because of a family event. Today I learned string interpolation and ES6 template literals in the learn.co functions lab on the bootcamp prep track.
+
+**Thoughts**: I need to start working on my portfolio.  				
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/843159287430086656)
+
+
+
 ###  Day 45: Thursday March 16, 2017 (into March 17th)
 #####
 
