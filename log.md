@@ -1,6 +1,36 @@
 # 100 Days Of Code - Log
 
 
+###  Day 49: Tuesday March 21, 2017 
+#####
+
+**Today's Progress**: completed the learn.co fix the scope lab. The first functions were easy but the last function was supposed to call a function within a function. So I tried to follow the example and asked questions but finally someone said I had to use two sets of parenthesis! Huh? I've never done that before. So even though I feel like I should already know this, I don't. I keep repeating myself LOL their material is hard.
+
+**Thoughts**: Only put in 1 hour today because... LIFE
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/844378216739622912)
+
+
+###  Day 48: Monday March 20, 2017 
+#####
+
+**Today's Progress**: Continued to work on my my dance project's CSS. FIxed the images for the header in PHotoshop. Changed the colors for the thumbnails you click on when you want to listen to the music. I also changed the nav bar color and made the whole site into a more cohesive unit. I was happy to get away from the Blue and REd of the Cuban flag. Played a lot with Bootstrap but decided to keep the same layout I had because I've spent way too much time on it and I need to move on. It's almost half way through the challenge and I think I should do some learning.
+
+I need to delete a bunch of files that I pushed last night because I've been keeping them all in the same project folder ie. photoshop files etc... I will look into git ignore or move them this weekend.
+
+**Thoughts**: I was nervous to share with the "World" or Twitter but this project made me realize that I need to work on quicker iterations. SInce I don't design full time for work my skills are rusty, and I also feel intimidated by the new standards. I know sites nowadays rely heavily on photos but I didn't want to put a photo as the first thing you saw, so that's why I decided to go in the direction i went in.
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/844046834393923586)
+2. [Cuban music and dance project](catespinosa.github.io/jsd920_class_repo/projects/final_project/public/index.html)
+
+
+
 ###  Day 47: Sunday March 19, 2017 
 #####
 
@@ -9,7 +39,7 @@
 I also worked on changing my dance project's CSS. Started with the header color and added 2 background images to the same element for the first time. I didn't know you could add different images as backgrounds.
 
 
-**Thoughts**: Still not happy with the design and starting to feel like I'm not good enough and like I'm just doing thing the "old" way I know how and it sucks. 				
+**Thoughts**: Still not happy with the design and starting to feel like I'm not good enough and like I'm just doing thing the "old" way I know how to and start bringing myself down. 				
 
 **Link to work:** 
 
