@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
 
+###  Day 50: Wednesday March 22, 2017 
+#####
+
+**Today's Progress**: Worked on learn.co's hoisting lab. Since this is a bootcamp prep, I have to go over arrays again, but the app was not responding and it's too late. 
+
+**Thoughts**: TODAY IS DAY 50!! I'm proud of myself for not giving up. I've skipped a few days in between but made sure to get right back on it. I've set 4 goals when I first started the challenge but I didn't complete them all and I had to move in a different order. At least I have a page to show for. I can read documentation and feel like I can understand and can work with it without feeling scared or like WTF all the time... I mean, I still do say WTF is this, but I don't give up and I get back to it: Look at all my posts about CORS (even though I didn't use it LOL). I've tried different approaches to learning: by doing and following online tutorials. I've also gone to meetups about coding!! I wouldn't have been able to gather up the confindence to do that a year ago (because I didn't know about this anyway haha)
+
+**Things I need to work on**:
+* By nature I am a procrastinator and disorganized, so I've been leaving the hour of code mostly for the night time because that's when I can "fit" it into my "schedule". I want to get more organized and set a specific time in which to code
+
+* Still giving myself somewhat of a hard time over what others are working on. So I want to focus on what I'm learning and remind that I can only be a better version of myself. The good thing is that at least I'm not so clueless about code
+
+*Read books.
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/844378216739622912)
+
+
+
 ###  Day 49: Tuesday March 21, 2017 
 #####
 
