@@ -13,7 +13,7 @@
 
 * Still giving myself somewhat of a hard time over what others are working on. So I want to focus on what I'm learning and remind that I can only be a better version of myself. The good thing is that at least I'm not so clueless about code
 
-*Read books.
+*Read books
 
 **Link to work:** 
 
