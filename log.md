@@ -1,6 +1,78 @@
 # 100 Days Of Code - Log
 
 
+###  Day 55: Monday March 27, 2017 
+#####
+
+**Today's Progress**: Practiced CSS Grid again on Codepen
+
+**Thoughts**: Still trying to understand it.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/846534819878227968)
+
+
+###  Day 54: Sunday March 26, 2017 
+#####
+
+**Today's Progress**: Learn.co Javascript Objects labs. Learned to use Object.assign()
+
+**Thoughts**: 
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/846195371097444353)
+
+
+###  Day 53: Saturday March 25, 2017 
+#####
+
+**Today's Progress**: Went to the CSS Grid workshop with Jen Simmons at General Assembly. Practice with the lab examples provided by the host.
+
+**Thoughts**: This past 7 months have been really eye opening. I feel like I have been living under a rock for 10 years because I was not actively seeking to update my web design skills or move onto web development. A lot of it has to do with the nature of my job since it's not a pure web design role but still, I feel like I could have done so much more. There's no point in having regrets so I can only look forward and what I'm willing to do now. This workshop was really inspiring as everything else that I have learned or seen during this 100 day challenge.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/845657775292235776)
+
+
+
+###  Day 52: Friday March 24, 2017 
+#####
+
+**Today's Progress**: Continued on the bootcamp prep on @learn_co JavaScript arrays lab.
+
+**Thoughts**: Same as the day before. Most of the learn.co stuff is ES6, so I'm learing something new while I complete these labs.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/845485985119064066)
+
+
+
+###  Day 51: Thursday March 23, 2017 
+#####
+
+**Today's Progress**: Continued on the bootcamp prep on @learn_co JavaScript arrays lab.
+
+**Thoughts**: I was confused by why the learn IDE app was passing my tests if the functions weren't correct. Basically I had two functions that were the same but they were supposed to be different, yet the app was saying they were both correct when one of them was clearly not. I asked a question and was quickly invited to do a screenshare with one of the instructors who helped me figure out that it was a bug in the system. So we went over how to update arrays non-destructively. I thought I passed the lab pretty quickly if it weren't for that bug that didn't allow me to move forward.
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/845122228198899715)
+
+
 ###  Day 50: Wednesday March 22, 2017 
 #####
 
