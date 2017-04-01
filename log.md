@@ -1,6 +1,46 @@
 # 100 Days Of Code - Log
 
 
+###  Day 58: Friday March 31, 2017 
+#####
+
+**Today's Progress**: Planning my portfolio. I want to use CSS Grid
+
+**Thoughts**: Since I have more time to code on the weekends, I'm going to dedicate the weekends to work on my portfolio and weekdays to do labs. I almost go to sleep without coding but I felt guilty so here I am past midnight (it's still March 31st in California). I sketched my ideas so let's see how I do. I also looked at squarespace after and thought "why not?" but somehow I feel like I shouldn't... plus squarespace is way too pretty for my stuff. LOL. Imposter!!
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/848039341913976833)
+
+###  Day 57: Thursday March 30, 2017 
+#####
+
+**Today's Progress**: Learn.co for loop, while loop, do-while loop. 
+
+**Thoughts**: I've never done a do-while loop or a while loop. Lab was kind of tricky and I was pissed I couldn't figure it out.
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/847614919847460865)
+
+
+###  Day 56: Wednesday March 29, 2017 
+#####
+
+**Today's Progress**: Finished the Grid exercises from the workshop I attended on Saturday. Started for loops lab on learn.co.
+
+**Thoughts**: I have to start working on something in order to understand it, then I read about it so it can sink in. I can't believe I just said that. I just decoded my learning style. 
+
+
+**Link to work:** 
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/847281390462709760)
+2. [Codepen exercise 11](http://codepen.io/catespinosa/pen/XMygZw)
+3. [Codepen exercise 10](http://codepen.io/catespinosa/pen/QpJgvm)
+
+
 ###  Day 55: Monday March 27, 2017 
 #####
 
@@ -13,6 +53,8 @@
 
 
 1. [Today's tweet](https://twitter.com/catespinosa/status/846534819878227968)
+2. [Codepen exercise 8](http://codepen.io/catespinosa/pen/aJaRBQ)
+3. [Codepen exercise 9](http://codepen.io/catespinosa/pen/BWOqwp)
 
 
 ###  Day 54: Sunday March 26, 2017 
