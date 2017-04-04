@@ -1,6 +1,32 @@
 # 100 Days Of Code - Log
 
 
+###  Day 61: Monday April 3, 2017 
+#####
+
+**Today's Progress**: More like Tuesday... Went over my work for an idea of what I want to put up on my portfolio, I have a vague idea of what I want my portfolio to look like. Started from scratch with my html and css files in an attempt not to use a framework AKA same way I've always worked. Played around with viewport units with CSS to change the size of the header and also made the header the height of the viewport. Interesting concept. I may add a photo later. I'll be designing in the browser.
+
+**Thoughts**: Going over my work was tough but it is what it is. I want to work on my portfolio and continue to build more sites so that I can refresh what I've already done.
+
+**Link to work:** 
+
+1. [Viewport units experiment on portfolio](https://github.com/catespinosa/catespinosa.github.io/commit/70d0a330443710c2826f4b7ab62c00d36b4d4130)
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/849131813893136386)
+
+
+
+###  Day 59-60: Saturday and Sunday April 1 - 2, 2017 
+#####
+
+**Today's Progress**: Continued to do more research and planning. Watched “Modern Layouts: Getting Out of Our Ruts by Jen Simmons". That talk was so eye opening. I had already heard her talk about how web design doesn't have to look the same, but hearing it again makes me look at websites in such a different way! 
+
+**Thoughts**: I didn't do any coding and I know it's because I'm putting it off... I just have to get started somewhere. What I start with doesn't have to dictate how the final product is going to look like, when does it ever?
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/848739286354669568)
+
 ###  Day 58: Friday March 31, 2017 
 #####
 
