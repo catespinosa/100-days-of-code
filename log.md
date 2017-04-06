@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 
+
+###  Day 62: Tuesday April 4, 2017 
+#####
+
+**Today's Progress**: Continued to work on my portfolio. Added a photo which makes it look like a LinkedIn profile, added some colors but not sure if that's what I'm going to end up with. I think to keep it simple I will go with a standard format which is big hero header, then three columns for the portfolio pieces. Added a fixed nav also.
+
+**Thoughts**: Trying really hard not to use a framework. I'm getting ideas from Bootstrap and Squarespace sites but I'd like to continue to use my own code. I also might use jQuery for adding portfolio pieces... I thought I said I wanted to keep it simple = make my life easier? But I think I have a good idea about how to add thumbnails dynamically.
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/849457452642959360)
+
+
+
 ###  Day 61: Monday April 3, 2017 
 #####
 
@@ -12,7 +26,7 @@
 
 1. [Viewport units experiment on portfolio](https://github.com/catespinosa/catespinosa.github.io/commit/70d0a330443710c2826f4b7ab62c00d36b4d4130)
 
-1. [Today's tweet](https://twitter.com/catespinosa/status/849131813893136386)
+2. [Today's tweet](https://twitter.com/catespinosa/status/849131813893136386)
 
 
 
