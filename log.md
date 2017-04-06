@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+###  Day 63: Wednesday April 5, 2017 
+#####
+
+**Today's Progress**: Started laying out the image cards to display my work, copied a hover effect from https://miketricking.github.io/bootstrap-image-hover/ and will be editing that tomorrow. Placing the thumbnails on the page really makes me want to start using grid and I think I'm just going to do that tomorrow.
+
+**Thoughts**: Since Grid won't get out of my head, I'm going to start using it tomorrow.
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/849822898906947584)
+
 
 ###  Day 62: Tuesday April 4, 2017 
 #####
