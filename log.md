@@ -24,6 +24,8 @@ The replaced content is not resized to fit inside the element’s content box: t
 
 1. [Grid folder - overlap](https://github.com/catespinosa/catespinosa.github.io/commit/375431198fe85deb129461df28888b1999f38b20#diff-585e6efefe03616bc439bd901e93f89e)
 
+2. [Today's tweet](https://twitter.com/catespinosa/status/855041562224590849)
+
 
 
 ###  Day 64-72: Friday April 7 - Wednesday April 19, 2017 
