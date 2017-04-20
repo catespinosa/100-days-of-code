@@ -1,6 +1,48 @@
 # 100 Days Of Code - Log
 
 
+
+###  Day 73: Thursday April 20, 2017 
+#####
+
+**Today's Progress**: Worked on text overlap with grid based on jenn simmons labs. Looked into object-fit CSS property since the lab uses object-fit: cover. It'll fill in the element's box maintaining its aspect ratio. I'm working with a rectangular image, so it shows part of it but it didn't distort the dimensions.
+
+fill
+The replaced content is sized to fill the element’s content box: the object’s concrete object size is the element’s used width and height.
+
+contain
+The replaced content is sized to maintain its aspect ratio while fitting within the element’s content box: its concrete object size is resolved as a contain constraint against the element’s used width and height.
+
+cover
+The replaced content is sized to maintain its aspect ratio while filling the element’s entire content box: its concrete object size is resolved as a cover constraint against the element’s used width and height.
+
+none
+The replaced content is not resized to fit inside the element’s content box: the object’s concrete object size is determined using the default sizing algorithm with no specified size, and a default object size equal to the replaced element’s used width and height.
+
+
+**Link to work:** 
+
+1. [Grid folder - overlap](https://github.com/catespinosa/catespinosa.github.io/commit/375431198fe85deb129461df28888b1999f38b20#diff-585e6efefe03616bc439bd901e93f89e)
+
+
+
+###  Day 64-72: Friday April 7 - Wednesday April 19, 2017 
+#####
+
+**Today's Progress**: I have not kept up with updating the log obviously but I've continued to post on Twitter. I've published my portfolio at catherineespinosa.com and decided to use squarespace so that I can easily add content. However, I'm not too happy with the platform and it makes me want to handcode again.
+
+**Thoughts**: I've put too much pressure on getting projects done, but I'm happy at least I brought my domain back. Building portfolio worthy pieces will take me some time and experimenting. So far I only have work stuff, if that. I've skipped days since last time I posted because I went away for Easter.
+
+
+
+###  Day 64: Thursday April 6, 2017 
+#####
+
+**Today's Progress**: Finally started using Grid. I looked into different column and row spans, found out how to target the children of an element: I thought I wasn't going to be able to do it with a div, but I was able to target the children of the #portfolio div which is AWESOME! I can make the cards different sizes. I will have to use CSS feature queries (@supports (property:value)) for browsers that support Grid, then I will have to specify styles for other browsers and use floats with specific width etc.
+
+**Thoughts**: 
+
+
 ###  Day 63: Wednesday April 5, 2017 
 #####
 
