@@ -2,6 +2,59 @@
 
 
 
+
+
+###  Day 78: Tuesday April 25, 2017 
+#####
+
+**Today's Progress**: Moved up 2 levels up to the last level of css grid garden and got stuck again.
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/857070407857393665)
+
+
+
+###  Day 77: Monday April 24, 2017 
+#####
+
+**Today's Progress**: Started CSS Grid Garden. Breezed through most of the levels until I got stuck on level 26
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/856695770946437120)
+
+
+###  Day 76: Sunday April 23, 2017 
+#####
+
+**Today's Progress**: Continued on css grid exercise from day 73 but couldn't make the layout response.
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/856331448374222849)
+
+
+###  Day 74-75: Friday April 21-22, 2017 
+#####
+
+**Today's Progress**: Attended Codeland Conference. The two day event was an awesome experience. I don't know if it qualifies as progress but I'm going with it :)
+
+The talks were not too technical but gave you a peek into the life of a developer, provided tools on how to deal with failure, mental health issues, and a roadmap on how to get the career you want.
+
+I was very happy with the experience, there was definitely a sense of community and camaraderie in the room. Everyone was super nice, the speakers were engaging and I couldn't have asked for more. I am really glad that I went.
+
+
+**Link to work:** 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/856331118387351556)
+
+
+
+
 ###  Day 73: Thursday April 20, 2017 
 #####
 
