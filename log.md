@@ -1,7 +1,65 @@
 # 100 Days Of Code - Log
 
+###  Day 82: Sunday April 30, 2017 
+#####
+
+**Today's Progress**:
+
+Started the online shopping lab and finished the first problem:
+
+* Define a global variable (use var at the top level) called cart. Initialize it as an empty array.
+* Define a function getCart that takes no arguments and returns the cart.
+* Define a function addToCart. This function should accept one argument, the item the user wants to purchase.
+This function should automatically set a price for this item by generating a random number between 0 and 100. (Hint: Math.random() generates a random number in 0, 1; Math.floor() rounds a number down to the nearest integer.)
+This function should add the item and the price as an object ({item: price}) to the cart array. This function should print out to the console <item> has been added to your cart. and return the cart.
+
+So I defined "price" as a variable to execute Math.floor((Math.random() * 100) + 1). Then I defined the newItemPrice variable to create the object {item : price} and push it into the cart array. The next step called for a console log (`${item} has been added to your cart.`) and finally return the cart array.
+
+My code looks like this:
+
+> var cart = [];
+
+>function addToCart (item) {
+>var price = Math.floor((Math.random() * 100) + 1);
+>var newItemPrice =  {item : price};
+>cart.push(newItemPrice);
+>console.log(`${item} has been added to your cart.`);
+>return cart;
+>}
+
+More on this exercise tomorrow.
 
 
+1. [Today's tweet](https://twitter.com/catespinosa/status/858811905359663104)
+
+
+
+###  Day 81: Friday April 28, 2017 
+#####
+
+**Today's Progress**: Lesson 29 in learn.co bootcamp prep: Add elements to an array. Return items from an array. Iterate through an array. Pass an array as a function parameter
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/858168843956617216)
+
+
+###  Day 80: Thursday April 27, 2017 
+#####
+
+**Today's Progress**: Went back to learn.co's bootcamp prep. I'm up to lesson 28 and it was extremely difficult to switch gears from CSS and not practicing javascript to this lesson. OMG. I have to pick a topic and stick to it, but I'm glad I'm figuring out how to best approach this challenge.
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/857796717386883072)
+
+
+
+###  Day 79: Wednesday April 26, 2017 
+#####
+
+**Today's Progress**: Finished CSS Grid Garden. I was having a hard time splitting the garden according to the instructions or rather I wasn't understanding the instructions. finally I reached out to someone on twitter who helped me figured it out.  The question was asking to split the garden into two rows - one big one at the top, and then the 50px path at the bottom. I had split it into 3 rows.
+
+I'm hoping my reading comprehension gets better or rather I think I've been extremely distracted this past week and it's been that much harder to concentrate and understand instructions.
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/857326795452022785)
 
 
 ###  Day 78: Tuesday April 25, 2017 
