@@ -17,15 +17,15 @@ So I defined "price" as a variable to execute Math.floor((Math.random() * 100) +
 
 My code looks like this:
 
-> var cart = [];
+		var cart = [];
 
-> function addToCart (item) {
-> var price = Math.floor((Math.random() * 100) + 1);
-> var newItemPrice =  {item : price};
-> cart.push(newItemPrice);
-> console.log(`${item} has been added to your cart.`);
-> return cart;
-> }
+		function addToCart (item) {
+			var price = Math.floor((Math.random() * 100) + 1);
+			var newItemPrice =  {item : price};
+			cart.push(newItemPrice);
+			console.log(`${item} has been added to your cart.`);
+			return cart;
+		}
 
 More on this exercise tomorrow.
 
