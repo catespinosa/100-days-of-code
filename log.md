@@ -1,5 +1,70 @@
 # 100 Days Of Code - Log
 
+
+###  Day 83-84: Monday May 1 - Tuesday May 2, 2017 
+#####
+
+**Today's Progress**: Between Monday and Tuesday, I worked on this exercise. It shouldn't have taken this long but my ability to concentrate lately is very low.
+
+1. Define a function `viewCart` which does not accept any arguments. This function should loop over every item in `cart` to print out `"In your cart, you have [item and price pairs]."`. If there isn't anything in your cart, the function should print out `"Your shopping cart is empty."`
+
+* The first part called for an if-else statement. If the cart is empty or === 0 then console log that the cart is empty.
+* Else, I need to loop through the items and print out each one in item/price pairs.
+
+My code looks like this:
+
+		function viewCart() {
+		  if(cart.length === 0) {
+		    console.log("Your shopping cart is empty.")
+		  } else {
+		    var items = [];
+		    for (var i = 0; i < cart.length; i++) {
+		      for (var price in cart[i]) {
+		        items.push(`${price} at $${cart[i][price]}`)
+		      }
+		    }
+		    console.log(`In your cart, you have ${items.join(", ")}.`)
+		  }
+		}
+
+
+
+2. Define a function `removeFromCart` which accepts one argument, the name of the item you wish to remove. If the item isn't in the cart, the function should print out `"That item is not in your cart."`. If the item is in your cart, it should remove the object from the `cart` array. Then return the cart. (**HINT**: Check each object's key to see if it matches the parameter, then remove it if it matches. You might find [hasOwnProperty](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty) to be useful.)
+
+Here's the code:
+		function removeFromCart(item) {
+		  let iHaveIt = false
+
+		  for (let i = 0; i < cart.length; i++) {
+		    if (cart[i].hasOwnProperty(item)) {
+		      iHaveIt = true
+		      cart = cart.slice(0, i)
+		      }
+		    }
+		  if (iHaveIt === false) {
+		    console.log("That item is not in your cart.")
+		  }
+		 return cart
+		}
+
+
+3. Define a function `placeOrder` which accepts one argument, a credit card number. If no argument is received, then the function should print out `"We don't have a credit card on file for you to place your order."`. If there is a credit card on file, the function should print out `"Your total cost is $${total()}, which will be charged to the card ${cardNumber}."`. The function should empty the `cart` array.
+
+		function placeOrder(cardNumber) {
+		  if (cardNumber === undefined) {
+		  console.log("We don\'t have a credit card on file for you to place your order.")
+		} else {
+		  console.log(`Your total cost is $${total()}, which will be charged to the card ${cardNumber}.`)
+		  cart = [];
+		}
+		return cart
+		}
+		
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/859580348774191104)
+
+
 ###  Day 82: Sunday April 30, 2017 
 #####
 
