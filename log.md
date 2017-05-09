@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+###  Day 87: Monday May 8, 2017
+#####
+
+**Today's Progress**: [Hide and Seek Lab is up on github](https://github.com/catespinosa/javascript-hide-and-seek-bootcamp-prep-000/blob/master/index.js)
+
+**Thoughts**:Reviewed CSS selectors or rather learned what to call them. It's incredible that I have been working with CSS for so many years and didn't know what to call them exactly. Shame!!
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/861783544447762432)
+
+
+
+###  Day 86: Thursday May 4, 2017
+#####
+
+**Today's Progress**: Reviewed yesterday's lesson on traversing objects, exploring the DOM as a tree CS
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/860340209292070912)
+
+
+
+###  Day 85: Wednesday May 3, 2017
+#####
+
+**Today's Progress**: Read .@learn_co lesson on Traversing Nested Objects and Breadth-first search.
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/860148078380187649)
+
 
 ###  Day 83-84: Monday May 1 - Tuesday May 2, 2017 
 #####
