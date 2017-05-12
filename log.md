@@ -1,5 +1,85 @@
 # 100 Days Of Code - Log
 
+###  Day 90: Thursday May 11, 2017
+#####
+
+**Today's Progress**: Finally jQuery exercises. Modifying HTML with jQuery and selectors.
+
+
+**Thoughts**: 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/862887042249871360)
+
+
+###  Day 89: Wednesday May 10, 2017
+#####
+
+**Today's Progress**: Further reading on bubbling and capturing. Learned about
+	event.detail - tells you how many times the mouse was clicked in the same area
+	event.which - which keyboard key was pressed
+
+I completed the [Konami Code Lab](https://learn.co/tracks/bootcamp-prep/javascript-fundamentals/the-dom/konami-code-lab) to practice event listeners. I need to read up on parseInt() because I don't quite understand it.
+
+		const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
+
+		function init() {
+		  // your code here
+		  //You'll want to attach an event listener to document.body and check for 'keydown' events.
+		  //If the user enters this special code, alert() a congratulatory message.
+		  //But if they start entering anything else anywhere along the way, don't trigger anything out of the ordinary.
+		  //When you're testing the code out, be sure to call init() to set everything up!
+
+		  let index = 0;
+		  const body = document.body;
+
+
+		  body.addEventListener('keydown', function(e){
+		    const key = parseInt(e.detail || e.which)
+		    if (key === code[index]) {
+		      index++
+
+		      if (index === code.length - 1) {
+		        alert('You pressed the right key!')
+		        index = 0
+		      }
+		    }
+		      else {
+		        index = 0
+		      }
+		    })
+		}
+		    init ();
+
+
+**Thoughts**: 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/862516213993418753)
+
+
+###  Day 88: Tuesday May 9, 2017
+#####
+
+**Today's Progress**: Reading about DOM Nodes, Callbacks.
+
+Callbacks are functions that are passed as arguments in other functions. Listening to Nodes
+		addEventListener() takes two arguments. The name of the event and a function to handle the event.
+
+	Preventing default behavior:
+		preventDefault()
+		stopPropagation() interrupts the event's normal behavior. I'm not seeing the difference between these two.
+
+DOM events propagate by bubbling (starting at the target node and moving up the DOM tree to the root - I even drew an upside down tree in my notebook)
+
+They also propagate by capturing - starting form the target node's parent and propagating down the tree until it reaches the target.
+
+Events bubble by default
+
+**Thoughts**: Started taking notes and I feel more confident in what I'm learning, and more motivated to learn.
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/862117393660817408)
+
+
+
 ###  Day 87: Monday May 8, 2017
 #####
 
