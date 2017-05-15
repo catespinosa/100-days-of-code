@@ -1,5 +1,51 @@
 # 100 Days Of Code - Log
 
+
+###  Day 93: Sunday May 14, 2017
+#####
+
+**Today's Progress**: Restarted the lab again and was able to solve a few lines of code. I was confused by an if statement where i was supposed to follow some instructions because it started with if {false ...instructions... return true}. That bugged me for a while, I finally asked a question and they told me that I could remove that, that I needed to check for the conditions in the instructions and if they pass/fail it should return true.
+
+**Thoughts**: Bummer... my confindence is low right now. Now I'm questioning whether online learning is really for me, after I've decided to take the online course.
+
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/863943924502728705)
+
+
+
+###  Day 92: Saturday May 13, 2017
+#####
+
+**Today's Progress**: Started on the last exercise of the JS track on learn.co "Rock Dodger". I'm supposed to create the functions that will move the dodger to avoid the rocks. I did not get very far at all. I also found out that in order to preview and HTML file from the labs, I had to run httpserver which would allow me to view the file in the browser.
+
+**Thoughts**: This is when it gets hard. I'm a little discouraged because I don't know where to even begin with this.
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/863600699963256832)
+
+
+
+
+###  Day 91: Friday May 12, 2017
+#####
+
+**Today's Progress**: implementing event listeners and practiced updating an object's position on the page
+
+		Define a function getIt that does not accept a parameter. The function should bind a click event to the p tag. When the paragraph is clicked, the function should alert "Hey!".
+
+		Define a function frameIt that does not accept a parameter. The function should bind the load event that adds the class tasty to the image to add a red frame to the image.
+
+		Define a function pressIt that does not accept a parameter. The function should bind a keydown event to the input field of the form that alerts a user when they have pressed the G key.
+
+		Define a function submitIt that does not accept a parameter. The function should bind a submit event to the form that alerts "Your form is going to be submitted now.".
+
+
+**Thoughts**: 
+
+1. [Today's tweet](https://twitter.com/catespinosa/status/863224124268838912)
+
+
+
+
 ###  Day 90: Thursday May 11, 2017
 #####
 
